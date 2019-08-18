@@ -1,3 +1,3 @@
 let ad="Hello";
 var dc="world";
-console.log(ad);
+console.log(ad+dc);
